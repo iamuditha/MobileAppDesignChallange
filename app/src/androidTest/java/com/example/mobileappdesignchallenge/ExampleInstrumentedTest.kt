@@ -1,4 +1,4 @@
-package com.example.mobileappdesignchallange
+package com.example.mobileappdesignchallenge
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

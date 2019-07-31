@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">MobileAppDesignChallange</string>
+    <string name="app_name">MobileAppDesignChallenge</string>
+    <string name="signInButtonText">Sign In</string>
+    <string name="signUpButtonText">Sign Up</string>
+    <string name="contentDescriptionBackgroundImage">background image</string>
+    <string name="contentDescriptionLogo">logo</string>
+    <string name="signInLabelText">Sign In</string>
+    <string name="userName_InputField_Text">User Name</string>
+    <string name="password_InputField_Text">Password</string>
+    <string name="signUpLabelText">Sign Up</string>
 </resources>

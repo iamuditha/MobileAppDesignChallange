@@ -1,4 +1,4 @@
-package com.example.mobileappdesignchallange
+package com.example.mobileappdesignchallenge
 
 import org.junit.Test
 
