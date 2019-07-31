@@ -8,4 +8,10 @@
     <string name="userName_InputField_Text">User Name</string>
     <string name="password_InputField_Text">Password</string>
     <string name="signUpLabelText">Sign Up</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="menu1">Portfolio</string>
+    <string name="menu2">Directory</string>
+    <string name="menu3">More</string>
+
+
 </resources>
