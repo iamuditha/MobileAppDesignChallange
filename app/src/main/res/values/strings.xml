@@ -12,6 +12,10 @@
     <string name="menu1">Portfolio</string>
     <string name="menu2">Directory</string>
     <string name="menu3">More</string>
+    <string name="address">No 60, Nawam Mawatha, Colombo</string>
+    <string name="email">hello@ironone.com</string>
+    <string name="telephoneNumber">01123654785</string>
+    <string name="view_location">View Location</string>
 
 
 </resources>

@@ -26,5 +26,9 @@ class SignUpActivity : AppCompatActivity() {
         userNameEditTextSignUpPage.startAnimation(textFieldAnimation)
         passwordEditTextSignUpPage.startAnimation(textFieldAnimation)
         emailEditTextSignUpPage.startAnimation(textFieldAnimation)
+
+
     }
+
+
 }

@@ -3,8 +3,8 @@ package com.example.mobileappdesignchallenge
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-
 import kotlinx.android.synthetic.main.activity_main.*
+
 
 class MainActivity : AppCompatActivity() {
 
@@ -18,16 +18,18 @@ class MainActivity : AppCompatActivity() {
         backgroundImage.animate().scaleX(1.5F).scaleY(1.5F).setDuration(7000).start()
 
 
-        //navigate to the signin activity
+        //navigate to the sign in activity
         signInButtonFirstScreen.setOnClickListener {
             val intent = Intent(this@MainActivity, SignInActivity::class.java)
             startActivity(intent)
         }
 
-        //navigate to signup activity
+        //navigate to sign up activity
         signUpButtonFirstScreen.setOnClickListener {
             val intent = Intent(this@MainActivity, SignUpActivity::class.java)
             startActivity(intent)
         }
+
+
     }
 }
